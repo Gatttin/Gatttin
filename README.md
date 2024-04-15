@@ -19,12 +19,17 @@
 <a href="https://www.linkedin.com/in/ygor-costa18" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/Gatttin">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Gatttin&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Gatttin&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?Gattin=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?Gatttin=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?Gatttin=anuraghazra&show_icons=true" />
+</picture>
 
 
 
