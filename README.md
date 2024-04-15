@@ -19,10 +19,10 @@
 <a href="https://www.linkedin.com/in/ygor-costa18" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Gatttin/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?Gatttin=Gatttin" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Gatttin/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Gatttin=Gatttin&layout=compact&langs_count=8&card_width=320" />
 </a>
 
