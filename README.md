@@ -1,5 +1,10 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "Ygor Costa"!
+## My name is Ygor Costa and my nickname is "Gatttin" due to a silly nickname haha!
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+<i class="devicon-twitter-original" width="40" height="40" ></i>
+                    
 
 ## Tools and Technologies:
 
