@@ -20,16 +20,10 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?Gatttin=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?Gatttin=Gatttin" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Gatttin=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Gatttin=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Gatttin=anuraghazra&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?Gatttin=Gatttin&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
