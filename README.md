@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ygor Costa and my nickname is "Gatttin" due to a silly nickname haha!
 
-##
 <div display="inline-block">
  <p align="left">📚 I'm currently studying C, C# and Ruby to update myself even more!!</p>
  <p align="left">📷 This is my <a href="https://www.instagram.com/httpsgattin">Instagram</a>
