@@ -4,7 +4,7 @@
 <div display="inline-block">
  <p align="left">📚 I'm currently studying C, C# and Ruby to update myself even more!!</p>
  <p align="left">📷 This is my <a href="https://www.instagram.com/httpsgattin">Instagram</a>
- <p align="left">📷 This is my <a href="https://www.https://twitter.com/shakenss">Twitter, (There are a lot of crazy things haha) </a>
+ <p align="left">📷 This is my <a href="https://www.https://twitter.com/shakenss">Twitter</a><a>(There are a lot of crazy things haha)</a>
  <p align="left">🎮 I play a lot of games out there! </p>
 </div>
 
