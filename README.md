@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Gatttin/Gatttin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 👋 Hello! Welcome to my Github profile.
+## My name is SeuNomeAqui and my nickname is "Ygor Costa"!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
