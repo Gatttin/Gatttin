@@ -1,6 +1,13 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Ygor Costa and my nickname is "Gatttin" due to a silly nickname haha!
 
+##
+<div display="inline-block">
+ <p align="left">📚 I'm currently studying C, C# and Ruby to update myself even more!!</p>
+ <p align="left">📷 This is my <a href="https://www.instagram.com/httpsgattin">Instagram</a>
+ <p align="left">📷 This is my <a href="https://www.https://twitter.com/shakenss">Twitter, (There are a lot of crazy things haha) </a>
+ <p align="left">🎮 I play a lot of games out there! </p>
+</div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" height="40" />
 
@@ -25,6 +32,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gatttin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gatttin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
 
 
